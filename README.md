@@ -18,4 +18,4 @@ In terminal `psql -U postgres -d imdb -a -f main.sql`
 
 Data file Used: name.basics.tsv, title.akas.tsv, title.basics.tsv, title.crew.tsv, title.episode.tsv, title.principals.tsv, title.ratings.tsv
 
-Explanation: https://www.overleaf.com/13998746nwmphnxysnsv#/54288923/
+
